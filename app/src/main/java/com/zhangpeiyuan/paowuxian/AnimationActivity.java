@@ -73,7 +73,6 @@ public class AnimationActivity extends Activity implements View.OnClickListener{
     @Override
     protected void onResume() {
         super.onResume();
-
     }
 
     private void initAnimation() {
